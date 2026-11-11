@@ -133,7 +133,6 @@ C:\Users\<用户名>\AppData\Local\Doubao\User Data\Default\.doubao\agent_mode\w
 ├── SKILL.md                 # 主体：九步工作法 + 硬性边界
 ├── README.md                # 本文件
 ├── LICENSE                  # 自定义使用许可 v1.0
-├── .gitignore               # 发布自查提示 + 系统与编辑器文件
 ├── references/
 │   ├── 轴承厂画像表.md      # 空表模板，由轴承厂填写，不含预置画像
 │   ├── industry-map.md      # 行业与轴承类型、精度、尺寸段对照
