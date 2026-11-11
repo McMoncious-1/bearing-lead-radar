@@ -1,0 +1,60 @@
+# 轴承下游线索雷达 · 使用许可
+
+**版本 v1.0 ｜ 生效日期 2026-11-11**
+
+**著作权人：云衍科技（洛阳）有限公司**
+
+**发布账号：GitHub @McMoncious-1**
+
+---
+
+**这是一份自定义许可，不是开源许可证。** 仓库公开是为了让人能看到、能学、能自用，不是把成果送人。
+
+**⚠️ 说明**：本许可由作者自行撰写，未做法律审查。正式对外授予商用许可前，建议请律师复核条款可执行性。
+
+---
+
+## 一、你可以免费做的事（不用申请）
+
+1. 阅读、克隆、下载本仓库的全部内容
+2. 装在你自己的电脑、或你所在公司的电脑上使用
+3. **用它给你自己的生意找客户** —— 企业内部的经营性使用不算「商业分发」，明确允许
+4. 按自己产品的实际情况修改 `references/轴承厂画像表.md`、`SKILL.md` 等文件，自用
+5. 同一公司内多人使用、多台电脑安装
+
+## 二、你需要先取得书面授权的事
+
+1. **转售**：卖这份技能，或按次、按年收费提供查询服务
+2. **二次分发**：公开发布、上传到其它平台、放进你自己的技能库或知识库、做成培训教材或付费课程
+3. **打包**：塞进任何付费产品、付费服务、付费社群、软件安装包里一起发
+4. **改名发布**：修改之后换一个名字发布，无论是否收费
+5. **去署名**：删除或修改本许可、著作权人署名、来源链接
+
+## 三、你必须保留的
+
+1. 本 `LICENSE` 文件不得删除、不得修改
+2. 在获得授权后分发衍生内容时，必须注明来源与本许可
+
+## 四、免责
+
+1. 本技能只检索和整理**公开信息**并给出判断建议；**不采集、不提供任何个人联系方式**
+2. 检索结果不保证完整、准确、及时；线索是否可用、是否值得跟进，由使用者自行核实与判断
+3. 本技能不构成法律、投资或商业决策建议；使用者应自行遵守所在地法律法规、平台规则与行业规范
+4. 著作权人不对因使用本技能产生的任何直接或间接损失承担责任
+
+## 五、怎么取得授权
+
+通过本仓库的 Issue 联系，说明用途、分发范围与使用规模。
+
+---
+
+## English Summary
+
+This is a **custom, source-available license** (not an OSI-approved open-source license). The Chinese text above governs.
+
+- **Free**: read, clone, install on your own or your company's machines, adapt it for internal use, and use it to find customers for your own business.
+- **Requires prior written permission**: resale, redistribution, rebranding, bundling into any paid product or service, or removing attribution.
+- **Must keep**: this `LICENSE` file, unmodified, plus attribution to the source repository.
+- **No warranty**: results are derived from public information only; no personal contact details are collected or provided. Verify before acting.
+
+Copyright (c) 2026 云衍科技（洛阳）有限公司 (YunYan Technology (Luoyang) Co., Ltd.). All rights reserved.
